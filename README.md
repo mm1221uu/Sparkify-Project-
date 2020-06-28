@@ -21,9 +21,16 @@ pandas
 
 datetime
 
+seaborn
+
+matplotlib
+
 ## Files Description<a name="files"></a>
 
 **Sprakify .ipynb** contains the process from loading data to building the model.
 
 ## Results 
 A template ready to use in the cluster with the full data to predict user behavior 
+
+Post 
+link: https://medium.com/@mm1221uu/sparkify-project-udacity-c0e76c71e11b
